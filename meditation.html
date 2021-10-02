@@ -1,0 +1,52 @@
+---
+layout: default
+title: Meditation
+permalink: meditation.html
+---
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Featured</span></h2>
+    </div>
+    <div class="row">
+
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% if post.page == "meditation" %}
+
+                {% include featuredbox.html %}
+
+           {% endif %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+</section>
+
+
+<section class="recent-posts">
+    <div class="section-title">
+        <h2><span>All Art Stories</span></h2>
+    </div>
+    <div class="row">
+
+    {% for post in site.posts %}
+
+        {% if post.featured != true %}
+            {% if post.page == "meditation" %}
+              {% include postbox.html %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+
+    </div>
+</section>
+
+
+
