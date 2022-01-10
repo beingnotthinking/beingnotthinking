@@ -8,7 +8,12 @@ permalink: /about
 <div class="col-md-8 pr-5">
 
 <p>We hope you enjoy your visit!</p>
-<p>This blog was stood up to share information. Whether it is about a van battery, the last National Park we visited, or just how we have been feeling lately, we hope you feel welcome and stick around to join our little community</p>
+<p>This blog was stood up to share pieces of our story and build our community. We hope that we can help others feel empowered to start living their lives to the fullest. 
+
+It will get pretty real around here, sharing physically real things like where we have been and what we are doing, to very abstract things such as how we are feeling and the traumatic and triumphant experiences we have had. 
+</p>
+
+We really love meeting new people and hearing their stories, so please reach out if you would like to chat. 
 
 </div>
 

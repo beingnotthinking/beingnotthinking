@@ -5,7 +5,7 @@ author: patrick-and-michaela
 categories: [ vanlife, personal, patrick, michaela ]
 page: "main"
 tags: [ vanlife, lifestyle, patrick, introduction, michaela]
-image: assets/images/who-is-beingnotthinking.png
+image: assets/images/who-is-beingnotthinking.jpeg
 description: "An introduction to the lovely individuals who write posts on this blog"
 featured: true
 ---
@@ -27,6 +27,11 @@ You can expect posts from me about spirituality, meditation, psychedelics, menta
 I am a pretty open book and happy to share about my experiences, so if you ever feel the inkling to reach out, please do, I would love to talk! 
 
 #### Michaela
+I would say most of my life I’ve been in survival mode and this is the first time I’ve really gotten to thrive. I’m still healing, as I probably always will be, but I’m finally moving forward. 
+For the first time I’m letting myself enjoy life and be happy. I’d love to help others get to a point of accepting themselves and enjoying their lives. I know how difficult it can be to get to that point. 
+Today, I am proud of myself for how far I have come with my education, working through my anxiety, and learning to love myself. 
 
-#### Why BeingNotThinking? 
-Check out the post here <hyperlink> for a further explaination! 
+On a happy note; here’s some things that bring me joy: art, writing, reading, green witchcraft, roller skating (although I’m not any good at it), and creating content. 
+
+I look forward to sharing my journey, connecting with others, and hopefully helping others heal.
+

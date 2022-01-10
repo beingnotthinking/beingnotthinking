@@ -1,14 +1,14 @@
 # Site
 name: "Being Not Thinking"
 title: "Being Not Thinking"
-description: "A Lifestyle blog discussing Meditation, Art, and Living differently"
+description: "A Lifestyle blog discussing Meditation, Healing, and Living differently"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 domain: 'beingnotthinking.github.io'
 url: 'https://beingnotthinking.github.io'
 baseurl: ''
 # google_analytics: 'UA-46278016-1'
-# disqus: 'demowebsite'
+disqus: 'beingnotthinking'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
@@ -30,7 +30,8 @@ authors:
     email: beingnotthinking@gmail.com
     web: https://beingnotthinking.com
     twitter: https://twitter.com/beingntthinking
-    description: "An eventual Description about Patrick"
+    instagram: https://instagram.com/beingnotthinkging
+    description: ""
   michaela:
     name: Michaela
     display_name: Michaela
@@ -38,7 +39,8 @@ authors:
     email: beingnotthinking@gmail.com
     web: https://beingnotthinking.com
     twitter: https://twitter.com/beingntthinking
-    description: "An eventual Description about Michaela"
+    instagram: https://instagram.com/beingnotthinkging
+    description: ""
   patrick-and-michaela:
     name: patrick-and-michaela
     display_name: Patrick and Michaela
@@ -46,7 +48,8 @@ authors:
     email: beingnotthinking@gmail.com
     web: https://beingnotthinking.com
     twitter: https://twitter.com/beingntthinking
-    description: "Us!"
+    instagram: https://instagram.com/beingnotthinkging
+    description: ""
 
 # Plugins
 plugins:

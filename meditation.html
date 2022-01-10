@@ -32,17 +32,14 @@ permalink: meditation.html
 
 <section class="recent-posts">
     <div class="section-title">
-        <h2><span>All Art Stories</span></h2>
+        <h2><span>All Meditation Stories</span></h2>
     </div>
     <div class="row">
 
     {% for post in site.posts %}
-
-        {% if post.featured != true %}
             {% if post.page == "meditation" %}
               {% include postbox.html %}
             {% endif %}
-        {% endif %}
     {% endfor %}
 
     </div>
