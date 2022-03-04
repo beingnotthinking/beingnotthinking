@@ -22,7 +22,7 @@ The pattern I enjoy most is getting to know people. I love hearing about the dif
 
 I am currently on a journey to meet more people, make deeper connections, and experience life to the fullest. Living in a van is a means to that end. 
 
-You can expect posts from me about spirituality, meditation, psychedelics, mental health, and of course, living in a van. 
+You can expect posts from me about traveling, meditation, mental health, and living in small spaces! 
 
 I am a pretty open book and happy to share about my experiences, so if you ever feel the inkling to reach out, please do, I would love to talk! 
 

@@ -1,0 +1,49 @@
+---
+layout: default
+title: Travel
+permalink: travel.html
+---
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Featured</span></h2>
+    </div>
+    <div class="row">
+
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% if post.page == "travel" %}
+
+                {% include featuredbox.html %}
+
+           {% endif %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+</section>
+
+
+<section class="recent-posts">
+    <div class="section-title">
+        <h2><span>All Travel Stories</span></h2>
+    </div>
+    <div class="row">
+
+    {% for post in site.posts %}
+            {% if post.page == "travel" %}
+              {% include postbox.html %}
+            {% endif %}
+    {% endfor %}
+
+    </div>
+</section>
+
+
+
