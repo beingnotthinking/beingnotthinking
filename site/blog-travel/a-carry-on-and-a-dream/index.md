@@ -30,18 +30,18 @@ I went with a suitcase mainly because I did not want a backpack and so far am gl
 
 ### 5 Tips on Packing to Travel the World
 
-1. Pack Light! 
-It should almost go without saying, but you just do not need as much stuff as you think you do. I am not going to say you have to only have a single packback or if you check a bag you are a fool, but I have found the less stuff I have to worry about the better. 
+1. Pack Light!  
+It should almost go without saying, but you just do not need as much stuff as you think you do. I am not going to say you have to only have a single packback or if you check a bag you are a fool, but I have found the less stuff I have to worry about the better.  
 
-2. Have a place for what is important
+2. Have a place for what is important  
 Maybe it is just a bit of anxiety being new to this, but having a place where the passports _always_ go makes us feel better. There are few things you can't replace if they get lost or damaged, but being without an identity sure makes life harder. 
-A sub-tip here: Make photo copies of your passport to throw in your bag. It isn't quite a 1:1 fix if your passport gets lost, but I have heard it goes a long way at the consulate. 
+A sub-tip here: Make photo copies of your passport to throw in your bag. It isn't quite a 1:1 fix if your passport gets lost, but I have heard it goes a long way at the consulate.  
 
-3. Buy Quality over Quantity
+3. Buy Quality over Quantity  
 Whether it is your suitcase, backpack, clothes, or shoes, if you are not going to have very many of them, spend the extra cash to get what is _Nice_. Having a suitcase where a wheel falls off or a backpack where a strap breaks is just, not something that you will want to deal with. So save yourself some headache and get the best quality you can afford (and please note, quality does not always line up directly with price)
 
-4. Don't bring everything you "need" at home 
-I think there is this weird feeling when about to leave for a long journey that the places you go will not have the things you need and 99% of the time that just is not the case. Bringing 3 small versions of your favorite shampoo or facewash may seem reasonable when about to leave for months, but when you walk around the  store and see your favorite shampoo in all of its glory, you will wonder why you put these things in your bag that you had to pull out at every security checkpoint. 
+4. Don't bring everything you "need" at home  
+I think there is this weird feeling when about to leave for a long journey that the places you go will not have the things you need and 99% of the time that just is not the case. Bringing 3 small versions of your favorite shampoo or facewash may seem reasonable when about to leave for months, but when you walk around the  store and see your favorite shampoo in all of its glory, you will wonder why you put these things in your bag that you had to pull out at every security checkpoint.  
 
-5. Be Organized
+5. Be Organized  
 It can be packing cubes, vacuum seal bags, or just having your electronics here and liquids there, being organized makes it easy when you need to pull things out in the airport and makes sure you don't have too much "miscellaneous" belongings that seem to accumulate during your travels. We are still figuring out what our favorite methods are, but so far a camera bag and cable bag have gone a very long way in making our lives easier. 
