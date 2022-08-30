@@ -1,0 +1,22 @@
+{
+    "name": "BeingNotThinking",
+    "url": "https://beingnotthinking.com",
+    "author": {
+        "name": "Patrick Farwick",
+        "handle": "@patrickfarwick"
+    },
+    "images": {
+        "favicon": "/favicon.png",
+        "favicon_svg": "/favicon.svg",
+        "apple_touch_icon": "/images/meta/apple-touch-icon.png",
+        "twitter": "/images/meta/twitter.jpg",
+        "instagram": "/images/meta/instagram.jpg",
+        "youtube": "/images/meta/youtube.jpg",
+        "og": "/images/meta/og.jpg"
+    },
+    "social_links": {
+        "instagram": "https://instagram.com/beingnotthinking",
+        "twitter": "https://twitter.com/BeingNtThinking",
+        "youtube": "https://www.youtube.com/channel/UCsFSIDI9M6bxC8l4d63eqMw"
+    }
+}

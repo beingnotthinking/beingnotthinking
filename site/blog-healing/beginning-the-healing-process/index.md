@@ -1,0 +1,24 @@
+---
+date: 2022-01-08   
+meta_description: How to start healing. A discussions around the hard part of beginning the healing process.
+title: Beginning the Healing Process
+sub_heading: A discussion on one of the hardest parts of the healing process
+post_image: /images/beginning-the-healing-process.jpeg
+image_alt: Photo by Patrick Farwick
+tags:
+    - healing
+    - health
+---
+
+Starting. 
+
+I have found one of the most fulfilling experiences I have had the pleasure of being involved in is the healing process. Whether it was from a first person perspective watching myself heal, or a third person perspective watching people close to me heal, I can confidently say it is one of the most beautiful things a person can witness. 
+
+That being said, it can also be an incredibly difficult and grueling process, so it is understandable that it is much easier to continue on as if nothing is wrong. And most people will do just that. Although it breaks my heart a little to see people stuck living with their trauma, I believe there is a certain amount of space required to heal, in both the head and in the heart, and that is not space you can force onto another person, or really yourself. 
+
+So what is one of the hardest parts of healing? Well, it is starting the process. Generally that is because you must admit that something is wrong. Maybe it just doesn't feel right anymore. Your feelings aren't congruent with what you would like or where you want to go. You can't shake that deep feeling that there is trauma lurking inside of you and with some space you realized it was there. Whatever it may be, there is an acknowledgement that work must be done, and most often it is difficult work that won't be much fun to do, but Oh! how rewarding it will be when you do it. 
+
+You should be proud of yourself. For creating the space. For acknowledging work needs to be done. For healing. It won't be easy, but you will be so happy you did it. 
+
+As someone who has gone through a whole lot of healing, I hope what I share can help you on your journey, and please don't hesitate to reach out if you need a chat, happy to do what I can. 
+
