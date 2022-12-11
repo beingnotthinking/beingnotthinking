@@ -3,7 +3,7 @@ date: 2021-08-31
 meta_description: Being Not Thinking, beingnotthinking, Introduction, Patrick Farwick, Michaela Farwick
 title: Who is BeingNotThinking
 sub_heading: An Introduction to Us
-post_image: /images/who-is-beingnotthinking.jpeg
+post_image: /images/who-is-beingnotthinking.webp
 image_alt: Photo by Patrick Farwick
 tags:
     - lifestyle

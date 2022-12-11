@@ -3,7 +3,7 @@ date: 2021-12-31
 meta_description: beingnotthinking, explanation, about
 title: Why BeingNotThinking
 sub_heading: An Explanation on Our Chosen Name, Being Not Thinking
-post_image: /images/why-being-not-thinking.png
+post_image: /images/why-being-not-thinking.webp
 image_alt: Photo by Patrick Farwick
 tags:
     - lifestyle

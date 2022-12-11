@@ -3,7 +3,7 @@ date: 2021-12-31
 meta_description: Learn how to add meditation into your everyday life. Tips and Hacks to help you meditate throughout the day. 
 title: Adding Meditation to Daily Life
 sub_heading: Tips on how to add meditation to your daily life
-post_image: /images/adding-meditation-to-daily-life.png
+post_image: /images/adding-meditation-to-daily-life.webp
 image_alt: Photo by Patrick Farwick
 tags:
     - healing
