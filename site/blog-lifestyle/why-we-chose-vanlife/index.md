@@ -3,7 +3,7 @@ date: 2022-01-08
 meta_description: Vanlife, Starting Vanlife, Van Life, Nomad, Digital Nomad
 title: Why We Chose Vanlife
 sub_heading: How we ended up going from a planned cross country move into permanent purgatory
-post_image: /images/beginning-the-healing-process.jpeg
+post_image: /images/beginning-the-healing-process.webp
 image_alt: Photo by Patrick Farwick
 tags:
     - lifestyle
