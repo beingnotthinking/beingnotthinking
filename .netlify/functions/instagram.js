@@ -7,7 +7,7 @@ exports.handler = function instagram(event, context, callback) {
   const userId = process.env.INSTAGRAM_CLIENT_ID;
   const fields = 'id,caption,media_url,permalink';
   const token = process.env.INSTAGRAM_ACCESS_TOKEN;
-  const limit = 5;
+  const limit = 3;
   const url = `${endpoint}/${userId}/media/?fields=${fields}&access_token=${token}&count=${limit}`;
 
   axios
