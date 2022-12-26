@@ -910,6 +910,7 @@ a:not([class]):hover {
   min-height: 100vh;
   flex-direction: column;
   background-attachment: fixed;
+  background-image: url("/images/who-is-beingnotthinking.jpeg");
 }
 
 @media (min-width : 40em) {
