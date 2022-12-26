@@ -1,12 +1,17 @@
-const axios = require('axios')
+const axios = require('axios');
+
+require('dotenv').config();
 
 exports.handler = function instagram(event, context, callback) {
-  const endpoint = 'https://api.instagram.com/v1/users/self/media/recent'
-  const token = process.env.INSTAGRAM_ACCESS_TOKEN
-  const limit = 5
+  const endpoint = 'https://graph.instagram.com';
+  const userId = process.env.INSTAGRAM_CLIENT_ID;
+  const fields = 'id,caption,media_url,permalink';
+  const token = process.env.INSTAGRAM_ACCESS_TOKEN;
+  const limit = 3;
+  const url = `${endpoint}/${userId}/media/?fields=${fields}&access_token=${token}&count=${limit}`;
 
   axios
-    .get(`${endpoint}?access_token=${token}&count=${limit}`)
+    .get(url)
     .then(({ data: { data: posts } }) => {
       callback(null, {
         statusCode: 200,
@@ -16,10 +21,8 @@ exports.handler = function instagram(event, context, callback) {
         body: JSON.stringify(
           posts.map(i => ({
             id: i.id,
-            link: i.link,
-            images: i.images,
-            videos: i.videos,
-            caption: i.caption.text,
+            url: i.media_url,
+            caption: i.caption,
           })),
         ),
       })
