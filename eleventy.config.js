@@ -97,13 +97,6 @@ module.exports = config => {
 
     })
 
-    //insta collection
-    config.addCollection('insta_posts', collection => {
-        const insta_ps = instagram()
-
-        return Array.from(insta_ps)
-
-    })
     
     // Layout aliases
     config.addLayoutAlias('base', 'layouts/base.njk')
