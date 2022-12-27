@@ -93,8 +93,14 @@ pagination:
     
     <h1 style="color: #2ecc71"> 
         {% if data1 %}
+        <script>
+            console.log("data112")
+            console.log(data1)
+            console.log("data113")
+        </script>
         <ul>
             {% for item in data1 %}
+
             <li>{{ item }}</li>
             {% endfor %}
         </ul>
