@@ -1,8 +1,17 @@
 const navigation = require('@11ty/eleventy-navigation')
 const dates = require('./utilities/filters/dates')
 const helpers = require('./utilities/filters/helpers')
-const instagram = require("./netlify/functions/instagram")
+const insta = require("./netlify/functions/instagram")
 const path = require('path')
+const axios = require("axios");
+const { EleventyServerlessBundlerPlugin } = require("@11ty/eleventy");
+
+module.exports = function(eleventyConfig) {
+  eleventyConfig.addPlugin(EleventyServerlessBundlerPlugin, {
+    name: "instagram", // The serverless function name from your permalink object
+    functionsDir: "./netlify/functions/",
+  });
+};
 
 module.exports = config => {
 
@@ -96,6 +105,8 @@ module.exports = config => {
         return Array.from(list).sort()
 
     })
+
+    
 
     
     // Layout aliases

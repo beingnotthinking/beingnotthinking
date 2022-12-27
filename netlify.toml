@@ -1,6 +1,7 @@
 [build]
   command = "npm run production"
   publish = "public"
+  functions = "./netlify/functions/"
 
 [[headers]]
   for = "/*"
