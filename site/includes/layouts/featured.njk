@@ -7,12 +7,12 @@ pagination:
 ---
 
 <script>
-  let data;
+  let data1;
 
   fetch('https://beingnotthinking.com/.netlify/functions/instagram')
     .then(response => response.json())
     .then(responseData => {
-      data = responseData;
+      data1 = responseData;
     });
 </script>
 
@@ -89,11 +89,7 @@ pagination:
     
     {# featured post image #}
     <h1 style="color: #2ecc71"> 
-        <ul>
-            {% for item in data %}
-                <li>{{ item.name }}</li>
-            {% endfor %}
-        </ul>
+        {{ data1 }}
     </h1>
     
 
