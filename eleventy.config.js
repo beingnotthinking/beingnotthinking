@@ -1,7 +1,7 @@
 const navigation = require('@11ty/eleventy-navigation')
 const dates = require('./utilities/filters/dates')
 const helpers = require('./utilities/filters/helpers')
-const embedInstagram = require("eleventy-plugin-embed-instagram");
+const instagram = require("./netlify/functions/instagram")
 const path = require('path')
 
 module.exports = config => {
@@ -97,8 +97,14 @@ module.exports = config => {
 
     })
 
-    config.addPlugin(embedInstagram);
+    //insta collection
+    config.addCollection('insta_posts', collection => {
+        const insta_ps = instagram()
 
+        return Array.from(insta_ps)
+
+    })
+    
     // Layout aliases
     config.addLayoutAlias('base', 'layouts/base.njk')
     config.addLayoutAlias('home', 'layouts/home.njk')

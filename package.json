@@ -24,6 +24,5 @@
     "sass-loader": "^11.0.1"
   },
   "dependencies": {
-    "eleventy-plugin-embed-instagram": "^1.2.4"
   }
 }
