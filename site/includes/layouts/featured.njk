@@ -5,6 +5,17 @@ pagination:
  size: 3
  alias: featured
 ---
+
+<script>
+  let data;
+
+  fetch('https://beingnotthinking.com/.netlify/functions/instagram')
+    .then(response => response.json())
+    .then(responseData => {
+      data = responseData;
+    });
+</script>
+
 <main id="main" class="main box-flex" tabindex="-1">
 
     <article id="container-centre" class="column centre">
@@ -77,8 +88,14 @@ pagination:
     </div>
     
     {# featured post image #}
-    <h1 style="color: #2ecc71"> hello </h1>
-
+    <h1 style="color: #2ecc71"> 
+        <ul>
+            {% for item in data %}
+                <li>{{ item.name }}</li>
+            {% endfor %}
+        </ul>
+    </h1>
+    
 
 
 </main>
