@@ -7,7 +7,6 @@ pagination:
 ---
 
 <script>
-  console.log("hello0")
   let data1;
 
   async function getData() {
@@ -16,15 +15,7 @@ pagination:
 
     console.log(data1)
   }
-
   getData();
-  console.log("hello1")
-  console.log(data1)
-</script>
-
-<script>
-    console.log("hello2")
-    console.log(data1);
 </script>
 
 <main id="main" class="main box-flex" tabindex="-1">
@@ -101,18 +92,12 @@ pagination:
     {# featured post image #}
     
     <h1 style="color: #2ecc71"> 
-        <script>
-        console.log("hello3");
-        console.log(data1);
-        </script>
         {% if data1 %}
         <ul>
             {% for item in data1 %}
-            <li>{{ item.name }}</li>
+            <li>{{ item }}</li>
             {% endfor %}
         </ul>
-        {% else %}
-            I am good!
         {% endif %}
         
     </h1>
