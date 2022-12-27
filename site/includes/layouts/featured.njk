@@ -12,7 +12,7 @@ pagination:
   let data1;
 
   await fetch('https://beingnotthinking.com/.netlify/functions/instagram')
-    .then(response => await response.json())
+    .then(response => response.json())
     .then(responseData => {
       data1 = responseData;
     });
