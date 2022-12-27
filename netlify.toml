@@ -6,5 +6,6 @@
 [[headers]]
   for = "/*"
   [headers.values]
+    Access-Control-Allow-Origin = "*"
     X-Frame-Options = "SAMEORIGIN"
     X-XSS-Protection = "1; mode=block"
