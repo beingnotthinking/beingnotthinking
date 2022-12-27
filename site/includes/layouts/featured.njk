@@ -6,11 +6,13 @@ pagination:
  alias: featured
 ---
 
+
+
 <script>
   let data1;
 
-  fetch('https://beingnotthinking.com/.netlify/functions/instagram')
-    .then(response => response.json())
+  await fetch('https://beingnotthinking.com/.netlify/functions/instagram')
+    .then(response => await response.json())
     .then(responseData => {
       data1 = responseData;
     });
