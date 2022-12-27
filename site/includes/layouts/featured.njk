@@ -89,7 +89,11 @@ pagination:
     
     {# featured post image #}
     <h1 style="color: #2ecc71"> 
-        {{ data1 }}
+        <ul>
+        {% for item in data1 %}
+            <li> {{ item }}</li>
+        {% endfor %}
+        </ul>
     </h1>
     
 
