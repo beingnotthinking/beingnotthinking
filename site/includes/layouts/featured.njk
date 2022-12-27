@@ -13,6 +13,8 @@ pagination:
   async function getData() {
     const response = await fetch('https://beingnotthinking.com/.netlify/functions/instagram');
     data1 = await response.json();
+
+    console.log(data1)
   }
 
   getData();
