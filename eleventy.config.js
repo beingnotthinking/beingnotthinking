@@ -3,17 +3,6 @@ const dates = require('./utilities/filters/dates')
 const helpers = require('./utilities/filters/helpers')
 const path = require('path')
 const axios = require("axios");
-const EleventyFetch = require("@11ty/eleventy-fetch");
-
-module.exports = async function() {
-  let insta_url = "https://beingnotthinking.com/.netlify/functions/instagram";
-
-  /* This returns a promise */
-  return EleventyFetch(url, {
-    duration: "1d", // save for 1 day
-    type: "json"    // we’ll parse JSON for you
-  });
-};
 
 module.exports = config => {
 
